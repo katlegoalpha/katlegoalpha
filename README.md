@@ -9,8 +9,6 @@
 - 🥅 2022 Goals: Contribute more to Open Source projects 
 - ⚡ Fun fact: I love to trade financial markets and play soccer / futsal
 
-![Animated Image of a coder]{https://i.gifer.com/3AyY.gif}
-
 ### 📚 I'm currently learning:
 - I'm currently going through my Mobile Web Development Specialist path offered by pluralsight through the Google Africa Developer Scholarship (GADS) 2021.
 ### connect with me: 
