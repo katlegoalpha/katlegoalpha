@@ -15,8 +15,10 @@
 [<img align="left" alt="katlegoalpha | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
+###📚 I'm currently learning:
+- I'm currently going through my Mobile Web Development Specialist path offered by pluralsight through the Google Africa Developer Scholarship (GADS) 2021.
 
-### Languages and Tools:
+###💼 Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][github]
 [<img align="left" alt="HTML5" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][github]
@@ -29,4 +31,4 @@
 [github]: https://github.com/katlegoalpha
 [website]: https://katlegomkhonza.netlify.app
 [twitter]: https://twitter.com/IndodaYeCode
-[linkedin]:https://www.linkedin.com/in/katlego-mkhonza-4b9280175/ 
+[linkedin]: https://www.linkedin.com/in/katlego-mkhonza-4b9280175/ 
