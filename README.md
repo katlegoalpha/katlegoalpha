@@ -13,8 +13,8 @@
 - I'm currently going through my Mobile Web Development Specialist path offered by pluralsight through the Google Africa Developer Scholarship (GADS) 2021.
 ### connect with me: 
 
-[<img align="left" alt="katlegoalpha | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="katlegoalpha | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="katlegoalpha | Twitter" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="katlegoalpha | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
