@@ -3,21 +3,22 @@
 
 ## I’m the eldest of 2 Siblings, Front End Developer, and a Role Model!!
 
-- 🔭 I just published my portfolio[website]!
+- 🔭 I just published my portfolio [website]!
 - 🌱 I’m currently on my toes, learning everything i can about Front-End/UI-UX and its ever-evolving methods 🤣
 - 👯 I love collaborating with other developers to get different views on a single concept
 - 🥅 2022 Goals: Contribute more to Open Source projects 
 - ⚡ Fun fact: I love to trade financial markets and play soccer / futsal
 
+![Animated Image of a coder]{https://i.gifer.com/3AyY.gif}
+
+### 📚 I'm currently learning:
+- I'm currently going through my Mobile Web Development Specialist path offered by pluralsight through the Google Africa Developer Scholarship (GADS) 2021.
 ### connect with me: 
 
 [<img align="left" alt="katlegoalpha | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="katlegoalpha | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
-
-### 📚 I'm currently learning:
-- I'm currently going through my Mobile Web Development Specialist path offered by pluralsight through the Google Africa Developer Scholarship (GADS) 2021.
 
 ### 💼 Languages and Tools:
 
@@ -33,4 +34,3 @@
 [website]: https://katlegomkhonza.netlify.app
 [twitter]: https://twitter.com/IndodaYeCode
 [linkedin]: https://www.linkedin.com/in/katlego-mkhonza-4b9280175/ 
-
