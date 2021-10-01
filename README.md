@@ -1,7 +1,7 @@
 ### Hello! 👋, I'm 'Kat' - pronounced 'Cat' 👨‍💻
 [![Twitter Follow](https://img.shields.io/twitter/follow/IndodaYeCode?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FIndodaYeCode&screen_name=IndodaYeCode)
 
-## I’m the eldest of 2 Siblings, Front End Developer, and a Role Model!!
+## I’m a Front End Developer
 
 - 🔭 I just published my portfolio [website]!
 - 🌱 I’m currently on my toes, learning everything i can about Front-End/UI-UX and its ever-evolving methods 🤣
